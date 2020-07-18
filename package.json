@@ -1,5 +1,6 @@
 {
   "name": "cdkweekly",
+  "description": "Terraform CDK SSL Proxy for cdkweekly.com",
   "version": "1.0.0",
   "main": "main.js",
   "types": "main.ts",
