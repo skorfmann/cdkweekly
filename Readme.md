@@ -8,5 +8,6 @@ That's where one of the [Terraform CDK examples](https://github.com/hashicorp/te
 
 Next Up:
 
-- [ ] Redirect naked domain -> www (probably including SSL via Cloudfront distrubtion)
+- [ ] Redirect naked domain -> www (probably including SSL via Cloudfront distribution)
 - [ ] Inject Google Analytics or something similar
+- [ ] Migrate state to Terraform Cloud
